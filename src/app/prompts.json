@@ -1,0 +1,203 @@
+[
+  {
+    "level": "beginner",
+    "prompt": "Write about your favorite Korean food and why you like it.",
+    "example": "I like _____ because _____."
+  },
+  {
+    "level": "beginner",
+    "prompt": "Describe what you ate for breakfast this morning.",
+    "example": "This morning, I ate _____."
+  },
+  {
+    "level": "beginner",
+    "prompt": "Tell someone what food you want to order at a restaurant.",
+    "example": "I want to eat _____."
+  },
+  {
+    "level": "beginner",
+    "prompt": "Ask a friend what they usually eat for lunch.",
+    "example": "What do you _____ ?"
+  },
+  {
+    "level": "beginner",
+    "prompt": "Describe a food using a taste word (sweet, spicy, salty, sour).",
+    "example": "_____ is very _____."
+  },
+  {
+    "level": "beginner",
+    "prompt": "Say what foods you can't eat or don't like.",
+    "example": "I don't like _____ or _____."
+  },
+  {
+    "level": "beginner",
+    "prompt": "Invite someone to eat together and suggest a food.",
+    "example": "Let's eat _____ together!"
+  },
+  {
+    "level": "beginner",
+    "prompt": "Describe your typical morning routine.",
+    "example": "Every morning, I _____ and then _____."
+  },
+  {
+    "level": "beginner",
+    "prompt": "Tell what time you usually wake up and go to sleep.",
+    "example": "I usually wake up at _____ and sleep at _____."
+  },
+  {
+    "level": "beginner",
+    "prompt": "Write about what you do on weekends.",
+    "example": "On weekends, I _____."
+  },
+  {
+    "level": "beginner",
+    "prompt": "Describe how you get to work or school.",
+    "example": "I go to _____ by _____."
+  },
+  {
+    "level": "beginner",
+    "prompt": "Say what you're doing right now.",
+    "example": "Right now, I am _____."
+  },
+  {
+    "level": "beginner",
+    "prompt": "Write about a hobby or activity you enjoy.",
+    "example": "I like to _____ in my free time."
+  },
+  {
+    "level": "beginner",
+    "prompt": "Tell someone what you do after work/school.",
+    "example": "After _____, I usually _____."
+  },
+  {
+    "level": "second",
+    "prompt": "Write about what you ate yesterday with friends or family.",
+    "example": "Yesterday, I _____ with _____."
+  },
+  {
+    "level": "second",
+    "prompt": "Compare two Korean foods you've tried.",
+    "example": "I like _____ more than _____ because _____."
+  },
+  {
+    "level": "second",
+    "prompt": "Describe your cooking skills or a dish you can make.",
+    "example": "I can cook _____, but I can't _____."
+  },
+  {
+    "level": "second",
+    "prompt": "Write about your eating habits (when, what, how often).",
+    "example": "I usually _____, but sometimes _____."
+  },
+  {
+    "level": "second",
+    "prompt": "Tell a story about a memorable meal you had.",
+    "example": "Last _____, I ate _____ and it was _____."
+  },
+  {
+    "level": "second",
+    "prompt": "Give advice about a good restaurant or food to try.",
+    "example": "If you like _____, you should try _____."
+  },
+
+  {
+    "level": "second",
+    "prompt": "Describe what you did yesterday from morning to evening.",
+    "example": "Yesterday, I _____, then I _____, and finally I _____."
+  },
+  {
+    "level": "second",
+    "prompt": "Compare your weekday routine to your weekend routine.",
+    "example": "On weekdays I _____, but on weekends I _____."
+  },
+  {
+    "level": "second",
+    "prompt": "Write about an activity you do regularly and how often.",
+    "example": "I _____ every _____ because _____."
+  },
+  {
+    "level": "second",
+    "prompt": "Describe something you're planning to do this week.",
+    "example": "This week, I'm planning to _____ with _____."
+  },
+  {
+    "level": "second",
+    "prompt": "Tell about a daily habit you're trying to start or stop.",
+    "example": "I'm trying to _____, but it's _____."
+  },
+  {
+    "level": "second",
+    "prompt": "Write about what you were doing at a specific time yesterday.",
+    "example": "Yesterday at _____, I was _____."
+  },
+  {
+    "level": "intermediate",
+    "prompt": "Describe what you were doing when something food-related happened.",
+    "example": "While I was _____, _____."
+  },
+  {
+    "level": "intermediate",
+    "prompt": "Express a hypothetical about food (If I could... / If I had...).",
+    "example": "If I could _____, I would _____."
+  },
+  {
+    "level": "intermediate",
+    "prompt": "Write about a food experience using past tense and your reaction.",
+    "example": "When I tried _____ for the first time, I thought _____."
+  },
+  {
+    "level": "intermediate",
+    "prompt": "Explain your food preferences and give reasons using multiple clauses.",
+    "example": "Even though _____, I _____ because _____."
+  },
+  {
+    "level": "intermediate",
+    "prompt": "Describe a food tradition or something you plan to do.",
+    "example": "Every _____, I _____, so I'm planning to _____."
+  },
+  {
+    "level": "intermediate",
+    "prompt": "Write about food using different time expressions (before, after, when).",
+    "example": "After _____, I always _____, but before _____, I _____."
+  },
+  {
+    "level": "intermediate",
+    "prompt": "Give a detailed opinion about Korean food culture or a specific dish.",
+    "example": "I think Korean food is _____ because _____. Among all dishes, _____ is especially _____ ."
+  },
+  {
+    "level": "intermediate",
+    "prompt": "Describe your routine using sequence words (first, then, after that, finally).",
+    "example": "First I _____, then _____, and after that _____."
+  },
+  {
+    "level": "intermediate",
+    "prompt": "Write about how your daily routine has changed over time.",
+    "example": "I used to _____, but now I _____ because _____."
+  },
+  {
+    "level": "intermediate",
+    "prompt": "Explain what you do when you have a busy day versus a free day.",
+    "example": "When I'm busy, I _____, but when I have free time, I _____."
+  },
+  {
+    "level": "intermediate",
+    "prompt": "Describe a daily activity you don't enjoy and explain why.",
+    "example": "Even though I have to _____, I don't like it because _____."
+  },
+  {
+    "level": "intermediate",
+    "prompt": "Write about activities you do before and after another activity.",
+    "example": "Before I _____, I always _____. After I _____, I usually _____."
+  },
+  {
+    "level": "intermediate",
+    "prompt": "Describe what you should do today but might not have time for.",
+    "example": "Today I should _____, but I might not be able to because _____."
+  },
+  {
+    "level": "intermediate",
+    "prompt": "Compare how you spend your time now versus how you want to spend it.",
+    "example": "These days I spend most of my time _____, but I wish I could _____ more often because _____."
+  }
+]
