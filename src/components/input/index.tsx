@@ -33,7 +33,7 @@ export default function Prompt({
 			return;
 		}
 		onSubmit(trimmed);
-		setValue("");
+		// setValue("");
 	};
 	return (
 		<form onSubmit={handleSubmit} className={styles.form}>

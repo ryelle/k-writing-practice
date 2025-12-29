@@ -3,8 +3,13 @@
   text-align: center;
 
   padding: var(--spacing);
-  background: var(--amber-2);
+  background: var(--orange-2);
   border-radius: 8px;
+
+  & :last-child {
+    margin-bottom: 0;
+  }
+
 }
 
 .message-list {
@@ -16,7 +21,7 @@
 .message-item {
   position: relative;
   padding: calc(var(--spacing) * 0.5) var(--spacing);
-  background: var(--teal-4);
+  background: var(--indigo-4);
   border-radius: 8px;
 
   & :last-child,
@@ -26,7 +31,7 @@
 
   &.from-agent {
     margin-right: var(--spacing);
-    background: var(--brown-4);
+    background: var(--amber-4);
     border-bottom-left-radius: 0;
   }
 
