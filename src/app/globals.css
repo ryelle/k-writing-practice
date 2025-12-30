@@ -2,6 +2,11 @@
 	--spacing: 1rem;
 	--container-width: 72rem;
 
+	--bg-system: var(--amber-2);
+	--bg-user: var(--indigo-4);
+	--bg-agent: var(--amber-4);
+	--primary: var(--indigo-7);
+
 	/* Override some drop-ins */
 	--input-shadow: none;
 	--font-size-min: 16;
@@ -10,6 +15,10 @@
 
 @media (prefers-color-scheme: dark) {
 	:root {
+		--bg-system: var(--pink-3);
+		--bg-user: var(--green-5);
+		--bg-agent: var(--pink-5);
+		--primary: var(--green-8);
 	}
 
 	html {
@@ -83,7 +92,7 @@ a {
 a:hover {
 	opacity: unset;
 	text-decoration: underline;
-	text-decoration-color: var(--teal);
+	text-decoration-color: var(--primary);
 	text-decoration-thickness: 0.15em;
 	text-underline-offset: 0.15em;
 }
