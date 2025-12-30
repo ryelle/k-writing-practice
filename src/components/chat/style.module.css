@@ -1,0 +1,43 @@
+.initial-prompt {
+  margin-block: var(--spacing);
+  text-align: center;
+
+  padding: var(--spacing);
+  background: var(--orange-2);
+  border-radius: 8px;
+
+  & :last-child {
+    margin-bottom: 0;
+  }
+
+}
+
+.message-list {
+  > * + * {
+    margin-top: var(--spacing);
+  }
+}
+
+.message-item {
+  position: relative;
+  padding: calc(var(--spacing) * 0.5) var(--spacing);
+  background: var(--indigo-4);
+  border-radius: 8px;
+
+  & :last-child,
+  & li {
+    margin-bottom: 0;
+  }
+
+  &.from-agent {
+    margin-right: var(--spacing);
+    background: var(--amber-4);
+    border-bottom-left-radius: 0;
+  }
+
+  &.from-user {
+    margin-left: var(--spacing);
+    border-bottom-right-radius: 0;
+    text-align: right;
+  }
+}

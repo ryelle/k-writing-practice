@@ -1,43 +1,33 @@
-.initial-prompt {
-  margin-block: var(--spacing);
-  text-align: center;
-
-  padding: var(--spacing);
-  background: var(--orange-2);
-  border-radius: 8px;
-
-  & :last-child {
-    margin-bottom: 0;
-  }
-
-}
-
-.message-list {
-  > * + * {
-    margin-top: var(--spacing);
-  }
-}
-
-.message-item {
-  position: relative;
-  padding: calc(var(--spacing) * 0.5) var(--spacing);
-  background: var(--indigo-4);
-  border-radius: 8px;
-
-  & :last-child,
+.list {
+  padding: 0;
+  list-style-type: none;
+  
   & li {
     margin-bottom: 0;
+    display: flex;
+    align-items: center;
+    gap: calc(var(--spacing) * 0.75);
   }
 
-  &.from-agent {
-    margin-right: var(--spacing);
-    background: var(--amber-4);
-    border-bottom-left-radius: 0;
+  & a {
+    margin: 0;
   }
 
-  &.from-user {
-    margin-left: var(--spacing);
-    border-bottom-right-radius: 0;
-    text-align: right;
+  & .level-beginner,
+  & .level-second,
+  & .level-intermediate {
+    display: inline-block;
+    height: 0.5em;
+    width: 0.5em;
+    border-radius: 50%;
+    background: var(--green-7);
+  }
+
+  & .level-second {
+    background: var(--yellow-7);
+  }
+
+  & .level-intermediate {
+    background: var(--orange-7);
   }
 }
