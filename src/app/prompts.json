@@ -199,5 +199,20 @@
     "level": "intermediate",
     "prompt": "Compare how you spend your time now versus how you want to spend it.",
     "example": "These days I spend most of my time _____, but I wish I could _____ more often because _____."
+  },
+  {
+    "level": "event",
+    "prompt": "How did you spend new year's eve/day?",
+    "example": "I spent time with ______."
+  },
+  {
+    "level": "event",
+    "prompt": "Do you have any resolutions or plans for 2026?",
+    "example": "I want to ______."
+  },
+  {
+    "level": "event",
+    "prompt": "What is your ideal daily routine for 2026?",
+    "example": "I want to meditate every morning."
   }
 ]

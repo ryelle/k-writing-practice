@@ -13,9 +13,7 @@
     margin: 0;
   }
 
-  & .level-beginner,
-  & .level-second,
-  & .level-intermediate {
+  & .is-level {
     display: inline-block;
     height: 0.5em;
     width: 0.5em;
@@ -29,5 +27,9 @@
 
   & .level-intermediate {
     background: var(--orange-7);
+  }
+
+  & .level-event {
+    background: var(--purple-8);
   }
 }

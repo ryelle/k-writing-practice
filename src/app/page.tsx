@@ -9,7 +9,9 @@ export default function Home() {
 			<ul className={styles.list}>
 				{prompts.map(({ level, prompt }, i) => (
 					<li key={i}>
-						<span className={styles[`level-${level}`]} />
+						<span
+							className={[styles[`level-${level}`], styles["is-level"]].join(" ")}
+						/>
 						<Link href={`/${i}/`}>{prompt}</Link>
 					</li>
 				))}
