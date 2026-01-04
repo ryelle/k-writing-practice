@@ -44,7 +44,10 @@ export default function Chat({ prompt: { prompt, example } }: { prompt: PromptTy
 								…
 							</div>
 						) : (
-							<div className={`${styles["message-item"]} ${styles["from-agent"]}`}>
+							<div
+								className={`${styles["message-item"]} ${styles["from-agent"]}`}
+								lang="ko"
+							>
 								<MemoizedMarkdown id="vocab" content={vocab} />
 							</div>
 						)}
@@ -56,6 +59,7 @@ export default function Chat({ prompt: { prompt, example } }: { prompt: PromptTy
 							"user" === message.role ? styles["from-user"] : styles["from-agent"]
 						}`}
 						key={i}
+						lang="ko"
 					>
 						<>
 							{message.parts.map((part) => {
